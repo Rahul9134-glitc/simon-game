@@ -1,1 +1,1 @@
-# simon-game
+# simon-game is design in such a way that if we press any of your keboard , the game gets activate and in this random box , white color gets highlighted and we follow it sequently and if for any reason we are not able to follow it sequently the game goes over and score gets hightlights and we can press any key to start the game again ..
